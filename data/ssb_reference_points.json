@@ -1,1 +1,43 @@
-
+{
+  "source": "Statistics Norway (SSB)",
+  "as_of": "2026-11-01",
+  "historical_debt_income": [
+    {
+      "period": "2021 H2",
+      "pct": 242.1
+    },
+    {
+      "period": "2024 end",
+      "pct": 221.9
+    }
+  ],
+  "interest_burden": [
+    {
+      "period": "2023",
+      "pct": 9.8
+    },
+    {
+      "period": "2024",
+      "pct": 10.9
+    }
+  ],
+  "mortgage_rate": [
+    {
+      "period": "Aug 2026",
+      "pct": 5.31
+    },
+    {
+      "period": "Sep 2026",
+      "pct": 5.31
+    }
+  ],
+  "fixed_floating_q3_2026": {
+    "floating_pct": 96.1,
+    "fixed_pct": 3.9
+  },
+  "urls": {
+    "household_accounts": "https://www.ssb.no/en/nasjonalregnskap-og-konjunkturer/finansregnskap/artikler/financial-accounts-for-households-in-2024",
+    "mortgage_rates": "https://www.ssb.no/en/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak",
+    "household_debt_table": "https://www.ssb.no/en/statbank1/table/06468/"
+  }
+}
